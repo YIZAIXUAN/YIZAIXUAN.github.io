@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>yizaixuan</title>
   
-  
+  <subtitle>yizaixuan</subtitle>
   <link href="https://yizaixuan.github.io/atom.xml" rel="self"/>
   
   <link href="https://yizaixuan.github.io/"/>
